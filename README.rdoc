@@ -1,0 +1,24 @@
+== README
+
+This tool creates different passwords from a core-password - so you can use different passwords for different services and you do not need to remember them, you can recreate the passwords at any time.
+
+The funny thing is that these passwords are "strong".
+
+Details later...
+
+* Ruby version
+
+Tested with Ruby 1.9.x+, Jruby 1.7.10+ 
+
+* System dependencies
+
+* Configuration
+
+* How to run the test suite
+
+* Services 
+
+* Deployment instructions
+
+* ...
+
